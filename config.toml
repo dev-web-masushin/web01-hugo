@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dev-web-masushin.github.io/web01-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'book'
+publishDir = 'docs'
