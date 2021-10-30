@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://dev-web-masushin.github.io/web01-site/posts/</link>
+    <link>https://web-ict-tips.github.io/web-01/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 17:18:51 +0900</lastBuildDate><atom:link href="https://dev-web-masushin.github.io/web01-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 17:18:51 +0900</lastBuildDate><atom:link href="https://web-ict-tips.github.io/web-01/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test2</title>
-      <link>https://dev-web-masushin.github.io/web01-site/posts/test2/</link>
+      <link>https://web-ict-tips.github.io/web-01/posts/test2/</link>
       <pubDate>Sat, 30 Oct 2021 17:18:51 +0900</pubDate>
       
-      <guid>https://dev-web-masushin.github.io/web01-site/posts/test2/</guid>
+      <guid>https://web-ict-tips.github.io/web-01/posts/test2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://dev-web-masushin.github.io/web01-site/posts/test/</link>
+      <link>https://web-ict-tips.github.io/web-01/posts/test/</link>
       <pubDate>Sat, 30 Oct 2021 17:16:14 +0900</pubDate>
       
-      <guid>https://dev-web-masushin.github.io/web01-site/posts/test/</guid>
+      <guid>https://web-ict-tips.github.io/web-01/posts/test/</guid>
       <description>いもかも</description>
     </item>
     
