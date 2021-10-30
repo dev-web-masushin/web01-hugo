@@ -1,4 +1,4 @@
-baseURL = 'https://dev-web-masushin.github.io/web01-site/'
+baseURL = 'https://web-ict-tips.github.io/web-01/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'book'
