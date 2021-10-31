@@ -2,20 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://web-ict-tips.github.io/web-01/</loc>
-    <lastmod>2021-10-30T17:18:51+09:00</lastmod>
+    <loc>https://web-terukko.github.io/web-01/categories/</loc>
   </url><url>
-    <loc>https://web-ict-tips.github.io/web-01/posts/</loc>
-    <lastmod>2021-10-30T17:18:51+09:00</lastmod>
+    <loc>https://web-terukko.github.io/web-01/</loc>
   </url><url>
-    <loc>https://web-ict-tips.github.io/web-01/posts/test2/</loc>
-    <lastmod>2021-10-30T17:18:51+09:00</lastmod>
-  </url><url>
-    <loc>https://web-ict-tips.github.io/web-01/posts/test/</loc>
-    <lastmod>2021-10-30T17:16:14+09:00</lastmod>
-  </url><url>
-    <loc>https://web-ict-tips.github.io/web-01/categories/</loc>
-  </url><url>
-    <loc>https://web-ict-tips.github.io/web-01/tags/</loc>
+    <loc>https://web-terukko.github.io/web-01/tags/</loc>
   </url>
 </urlset>
