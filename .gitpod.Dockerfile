@@ -11,5 +11,3 @@ USER gitpod
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN brew update
-RUN brew install hugo
