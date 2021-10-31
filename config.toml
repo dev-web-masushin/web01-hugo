@@ -1,5 +1,5 @@
-baseURL = 'https://web-ict-tips.github.io/web-01/'
-languageCode = 'en-us'
+baseURL = 'https://web-terukko.github.io/web-01/'
+languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 theme = 'book'
 publishDir = 'docs'
