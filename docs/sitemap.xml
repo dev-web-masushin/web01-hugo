@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://web-terukko.github.io/web-01/docs/slack_1/</loc>
+  </url><url>
+    <loc>https://web-terukko.github.io/web-01/docs/slack_2/</loc>
+  </url><url>
+    <loc>https://web-terukko.github.io/web-01/docs/</loc>
+  </url><url>
+    <loc>https://web-terukko.github.io/web-01/pages/test/</loc>
+  </url><url>
     <loc>https://web-terukko.github.io/web-01/categories/</loc>
   </url><url>
     <loc>https://web-terukko.github.io/web-01/</loc>
+  </url><url>
+    <loc>https://web-terukko.github.io/web-01/pages/</loc>
   </url><url>
     <loc>https://web-terukko.github.io/web-01/tags/</loc>
   </url>

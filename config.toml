@@ -3,3 +3,6 @@ languageCode = 'ja-jp'
 title = 'My New Hugo Site2'
 theme = 'book'
 publishDir = 'docs'
+
+[params]
+    BookSection = '*'
