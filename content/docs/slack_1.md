@@ -14,5 +14,5 @@ bookToc: false
 ほげんぐ
 {{< figure src="/test.png" title="Steve Francia" >}}
 
-![This is a image](/images/test.png)
+![This is a image](/web-01/images/test.png)
 ![This is a image](test.png)
