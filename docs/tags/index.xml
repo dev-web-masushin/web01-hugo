@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site2</title>
-    <link>https://web-terukko.github.io/web-01/tags/</link>
+    <link>https://web-terukko.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site2</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://web-terukko.github.io/web-01/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language><atom:link href="https://web-terukko.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
